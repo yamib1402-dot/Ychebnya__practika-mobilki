@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvName" type="id" />
+    <item name="tvType" type="id" />
+    <item name="tvWeight" type="id" />
+    <item name="tvPrice" type="id" />
+    <item name="tvStock" type="id" />
+    <item name="tvColor" type="id" />
+</resources>
